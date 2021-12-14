@@ -1,0 +1,36 @@
+body{
+  font-family: sans-serif;
+  font-style: italic;
+  line-height: normal;
+}
+hr{
+  border-style:none;
+  border-top-style: ridge;
+  border-color: #FFA69E;
+  border-width: 5px;
+  width: 10%;
+}
+.back{
+  background-color: #242423;
+}
+.exsansserif { font-family: Arial, Helvetica, sans-serif;}
+.Mainphoto{
+  width: 450px;
+  height: 450px;
+}
+.H2{
+    background-color: #333533;
+    width: 370px;
+}
+.H3{
+  background-color: #F5CB5C;
+  width: 280px;
+}
+
+#strongh4{
+  background-color: #FFA69E;
+  width: 130px;
+}
+A:visited {
+    color: #9a7f39;
+  }
